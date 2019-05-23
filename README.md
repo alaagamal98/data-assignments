@@ -26,7 +26,7 @@ OOP Struct | STL
 ## How to Run :
 
 Executable | Summary | How to Run
----------- | ------ | ----------
+---------- | -- | ----------
 basic | Does some basic operations |  ```./basic```
 memory | Does some simple operations using pointers and heap memory | ```./memory```
 calc | Works as a calculator | ```./calc "first number" "operation" "second number"```
