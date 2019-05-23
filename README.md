@@ -34,8 +34,8 @@ heron | Calculates the area of a triangle by its three lengths | ```./heron "the
 ecg | Analyzes ECG data | ```./ecg ../data/ecg_data.txt```
 dna1 | Analyzes DNA data | ```./dna1 ../data/hepatitis_c_virus_genome.txt```
 area | Calculates the area of any shape |```./area "shape" "parameters of the shape"``` 
-euclidean | Calculates the length between any two points | ```./euclidean "x-coordinate of p1" "y-coordinate of p1" "x-coordinate of p2" "y-coordinate of p2"``` 
-point | Determines whether or not a point is inside a certain shape |  ```./area "shape"``` 
+euclidean | Calculates the length between any two points | ```./euclidean``` 
+point | Checks whether or not a point is inside a certain shape |  ```./point "shape"``` 
 dna2 | Analyzes DNA data using OOP | ```./dna2 ../data/hepatitis_c_virus_genome.txt```
 comp_dna | Transform DNA data to its complementary DNA data | ```./comp_dna ../data/hiv1_envelope_gene.fasta```
 trans_dna | Translates DNA data to its corresponding protien data | ```./trans_dna ../data/hiv1_envelope_gene.fasta```
