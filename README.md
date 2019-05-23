@@ -16,6 +16,14 @@ Hash Table | week 9
 Sorting | week 10
 OOP Struct | STL
 
+## How to Compile :
+* We used CMake to make the compiling easier and less time consuming.
+1. create a ```build``` folder and open it.
+2. open the terminal.
+3. write  ```cmake ..```
+4. write  ```make ```
+
+
 Executable | Summary | How to Run
 ---------- | ------ | ----------
 basic | Does some basic operations |  ```./basic```
