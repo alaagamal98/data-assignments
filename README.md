@@ -30,7 +30,7 @@ Executable | Summary | How to Run
 basic | Does some basic operations |  ```./basic```
 memory | Does some simple operations using pointers and heap memory | ```./memory```
 calc | Works as a calculator | ```./calc "first number" "operation" "second number"```
-heron | Calculates the area of a triangle by its three lengths | ```./heron "the three lengths of triangle``` ```./heron 9 4 7```
+heron | Calculates the area of a triangle by its three lengths | ```./heron "the three lengths of triangle"```
 ecg | Analyzes ECG data | ```./ecg ../data/ecg_data.txt```
 dna1 | Analyzes DNA data | ```./dna1 ../data/hepatitis_c_virus_genome.txt```
 area | Calculates the area of any shape |```./area "shape" "parameters of the shape"``` 
