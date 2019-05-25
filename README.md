@@ -1,6 +1,6 @@
 # Final Assignment
 
-In this assignment I gathered all the previous assignments into one file and compiled it with one step using CMake.
+In this assignment I gathered all the previous C++ assignments in the data structure course into one respiratory and compiled it with one step using CMake.
 
 ## The Assignment Contains :
 
