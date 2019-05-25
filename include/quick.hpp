@@ -19,7 +19,7 @@ void quickSort(std::vector<double> &a, int low, int high)
 
 int partition(std::vector<double> &a, int low, int high)
 {
-    int pivot = a[low];
+    double pivot = a[low];
 
     int i = low + 1, j = high;
 
